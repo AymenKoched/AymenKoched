@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=AymenKoched&color=brightgreen&style=flat-square" alt="Profile views" />
   </div>
   <h2>
-    👋 Hi, I'm Aymen koched — DevOps & Software Engineering Enthusiast 🚀
+    👋 Hi, I'm Aymen Koched — DevOps & Software Engineering Enthusiast 🚀
   </h2>
   <ul align="left">
     <li>💻 Currently pursuing a degree in Software Engineering at the National Institute of Applied Science and Technology (INSAT).</li>
